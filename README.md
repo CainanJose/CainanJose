@@ -1,7 +1,7 @@
 ## Olá! Eu sou Cainã José 👋
 
 
-- 🔭 Atualmente trabalhando com Power APPs e Power Automate
+- 🔭 Atualmente trabalhando com Python e automatização de area Produtiva.
 - 🌱 Cursando Engenharia da Computação
 - 📫 Contate-me no e-mail: josecainan21@gmail.com
 - 😄 Pronouns: ele/dele
